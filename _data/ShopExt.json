@@ -11364,12 +11364,12 @@
         ],
         "mod": "[Ry]Rimcraft",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "The goblins (collectively known as goblinhood) are small green humanoids from the Isle of Kezan. Their love of money, explosives, and technology leaves them to be a very dangerous race, both to their enemies and themselves. Most goblins have a neutral standpoint, preferring to sell their contraptions, knowledge and services to other races. Goblins are slight and wiry, averaging 4 feet in height.[21][22][23] They have three fingers and one thumb on one hand and four toes on one foot. Their noses grow larger as they age.",
       "defName": "WoW_Goblin",
       "enabled": true,
-      "name": "Goblin",
+      "name": "kezan_goblin",
       "price": 4167
     },
     {
@@ -11530,12 +11530,12 @@
         ],
         "mod": "[Ry]Rimcraft",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "The orcs are a race native to the world of Draenor, now known as Outland, they arrived to Azeroth through the Dark Portal a massive structure that allowed orcs passage from their world.",
       "defName": "WoW_Orc",
       "enabled": true,
-      "name": "Orc",
+      "name": "azeroth_orc",
       "price": 5000
     },
     {
@@ -11747,12 +11747,12 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "Dwarves, sometimes called the Stout Folk, were a natural humanoid race common throughout parts of Toril as well as Abeir. Dwarves were a tough, tradition-abiding folk known for their strong martial traditions and beautiful craftsmanship.",
       "defName": "O21_Alien_Dwarf",
       "enabled": true,
-      "name": "Dwarf",
+      "name": "stout_dwarf",
       "price": 2917
     },
     {
