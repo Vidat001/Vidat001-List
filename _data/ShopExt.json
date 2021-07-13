@@ -12267,6 +12267,29 @@
       "enabled": true,
       "name": "nightborne",
       "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+10% Flammability",
+          "+$2150 Market value",
+          "+4.10 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Forgotten Realms - Minotaur",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Minotaurs are giant humanoids with fur-covered bodies and bull-like heads. Minotaurs are surprisingly carnivores. They love to dwell within maze-like caverns or ruins, where their innate sense of direction prevented them from getting lost. They lure travelers into their ruins where they have an advantage over their unfortunate victims.",
+      "defName": "FR_Alien_Minotaur",
+      "enabled": true,
+      "name": "Minotaur",
+      "price": 3583
     }
   ]
 }
