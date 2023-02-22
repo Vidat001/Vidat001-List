@@ -25188,6 +25188,954 @@
 		"category": "Animals",
 		"defname": "AAVPE_BlackQueen"
 	},
+	{
+		"abr": "12pounder",
+		"price": 533,
+		"category": "Security",
+		"defname": "KIT_Turret_12Pounder"
+	},
+	{
+		"abr": "ambroisenarm",
+		"price": 1192,
+		"category": "Simple parts",
+		"defname": "AmbroisenMedArm"
+	},
+	{
+		"abr": "ambroisenear",
+		"price": 333,
+		"category": "Simple parts",
+		"defname": "AmbroisenMedEar"
+	},
+	{
+		"abr": "ambroiseneye",
+		"price": 333,
+		"category": "Simple parts",
+		"defname": "AmbroisenMedEye"
+	},
+	{
+		"abr": "ambroisenfinger",
+		"price": 309,
+		"category": "Simple parts",
+		"defname": "AmbroisenMedFinger"
+	},
+	{
+		"abr": "ambroisenfoot",
+		"price": 708,
+		"category": "Simple parts",
+		"defname": "AmbroisenMedFoot"
+	},
+	{
+		"abr": "ambroisenhand",
+		"price": 708,
+		"category": "Simple parts",
+		"defname": "AmbroisenMedHand"
+	},
+	{
+		"abr": "ambroisenleg",
+		"price": 1192,
+		"category": "Simple parts",
+		"defname": "AmbroisenMedLeg"
+	},
+	{
+		"abr": "ambroisennose",
+		"price": 333,
+		"category": "Simple parts",
+		"defname": "AmbroisenMedNose"
+	},
+	{
+		"abr": "ambroisentoe",
+		"price": 309,
+		"category": "Simple parts",
+		"defname": "AmbroisenMedToe"
+	},
+	{
+		"abr": "animabear",
+		"price": 3333,
+		"category": "Animals",
+		"defname": "AnimaBear"
+	},
+	{
+		"abr": "animabearmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AnimaBear"
+	},
+	{
+		"abr": "animabearskin",
+		"price": 17,
+		"category": "Leathers",
+		"defname": "Leather_AnimaBear"
+	},
+	{
+		"abr": "animaberry",
+		"price": 58,
+		"category": "Drugs",
+		"defname": "AnimaBerry"
+	},
+	{
+		"abr": "animabranch",
+		"price": 1667,
+		"category": "Items",
+		"defname": "AnimaBranch"
+	},
+	{
+		"abr": "animafoxmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AnimaFox"
+	},
+	{
+		"abr": "animafur",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_AnimaFur"
+	},
+	{
+		"abr": "animaheart",
+		"price": 5000,
+		"category": "Archotech",
+		"defname": "AnimaHeart"
+	},
+	{
+		"abr": "animamuffalomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AnimaMuffalo"
+	},
+	{
+		"abr": "animamuffalowool",
+		"price": 4,
+		"category": "Wools",
+		"defname": "WoolAnimaMuffalo"
+	},
+	{
+		"abr": "animasapling",
+		"price": 1667,
+		"category": "Special",
+		"defname": "AnimaSapling"
+	},
+	{
+		"abr": "animathrumbo",
+		"price": 8333,
+		"category": "Animals",
+		"defname": "AnimaThrumbo"
+	},
+	{
+		"abr": "animathrumbohorn",
+		"price": 2667,
+		"category": "Items",
+		"defname": "AnimaThrumboHorn"
+	},
+	{
+		"abr": "animathrumbomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AnimaThrumbo"
+	},
+	{
+		"abr": "animathrumbomilk",
+		"price": 8,
+		"category": "Animal products",
+		"defname": "AnimaThrumboMilk"
+	},
+	{
+		"abr": "animathrumbofur",
+		"price": 30,
+		"category": "Leathers",
+		"defname": "Leather_AnimaThrumbo"
+	},
+	{
+		"abr": "animawarg",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "AnimaWarg"
+	},
+	{
+		"abr": "animawargmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AnimaWarg"
+	},
+	{
+		"abr": "animawargskin",
+		"price": 10,
+		"category": "Leathers",
+		"defname": "Leather_OPAnimaWarg"
+	},
+	{
+		"abr": "animawarg'srazorfang",
+		"price": 833,
+		"category": "Items",
+		"defname": "AnimaWargFang"
+	},
+	{
+		"abr": "animayak",
+		"price": 1333,
+		"category": "Animals",
+		"defname": "AnimaYak"
+	},
+	{
+		"abr": "animayakbeef",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AnimaYak"
+	},
+	{
+		"abr": "animayakleather",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_AnimaYak"
+	},
+	{
+		"abr": "animayakwool",
+		"price": 20,
+		"category": "Textiles",
+		"defname": "WoolAnimaYak"
+	},
+	{
+		"abr": "arquebus",
+		"price": 193,
+		"category": "Ranged weapons",
+		"defname": "KIT_Gun_Arquebus"
+	},
+	{
+		"abr": "artificialarm",
+		"price": 433,
+		"category": "Simple parts",
+		"defname": "ArtificialMedArm"
+	},
+	{
+		"abr": "artificialear",
+		"price": 92,
+		"category": "Simple parts",
+		"defname": "ArtificialMedEar"
+	},
+	{
+		"abr": "artificialeye",
+		"price": 92,
+		"category": "Simple parts",
+		"defname": "ArtificialMedEye"
+	},
+	{
+		"abr": "artificialfinger",
+		"price": 84,
+		"category": "Simple parts",
+		"defname": "ArtificialMedFinger"
+	},
+	{
+		"abr": "artificialfoot",
+		"price": 236,
+		"category": "Simple parts",
+		"defname": "ArtificialMedFoot"
+	},
+	{
+		"abr": "artificialhand",
+		"price": 245,
+		"category": "Simple parts",
+		"defname": "ArtificialMedHand"
+	},
+	{
+		"abr": "artificialleg",
+		"price": 433,
+		"category": "Simple parts",
+		"defname": "ArtificialMedLeg"
+	},
+	{
+		"abr": "artificialnose",
+		"price": 92,
+		"category": "Simple parts",
+		"defname": "ArtificialMedNose"
+	},
+	{
+		"abr": "artificialtoe",
+		"price": 84,
+		"category": "Simple parts",
+		"defname": "ArtificialMedToe"
+	},
+	{
+		"abr": "bayonetmusket",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "KIT_Gun_BayonetMusket"
+	},
+	{
+		"abr": "blackdragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "Black_Dragon"
+	},
+	{
+		"abr": "blackdragonegg(fert.)",
+		"price": 5333,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggBlackDragonFertilized"
+	},
+	{
+		"abr": "bluedragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "Blue_Dragon"
+	},
+	{
+		"abr": "bluedragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggBlueDragonFertilized"
+	},
+	{
+		"abr": "blunderbuss",
+		"price": 244,
+		"category": "Ranged weapons",
+		"defname": "KIT_Gun_Blunderbuss"
+	},
+	{
+		"abr": "boilerpot",
+		"price": 17,
+		"category": "Hygiene",
+		"defname": "ES_Kettle"
+	},
+	{
+		"abr": "carvedlongbow",
+		"price": 218,
+		"category": "Ranged weapons",
+		"defname": "MB_Bow_CarvedLongBow"
+	},
+	{
+		"abr": "closedhoodedbascinethelmet",
+		"price": 458,
+		"category": "Headgear",
+		"defname": "Joe_BascinetHooded"
+	},
+	{
+		"abr": "doublecrossbow",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "DD_Bow_DoubleCrossbow"
+	},
+	{
+		"abr": "drachensword",
+		"price": 3667,
+		"category": "Melee weapons",
+		"defname": "DD_MeleeWeapon_DrachenSword"
+	},
+	{
+		"abr": "draconicambrosia",
+		"price": 60,
+		"category": "Drugs",
+		"defname": "DraconicAmbrosia"
+	},
+	{
+		"abr": "dragonaltar",
+		"price": 675,
+		"category": "Furniture",
+		"defname": "Altar"
+	},
+	{
+		"abr": "dragoncrown",
+		"price": 1683,
+		"category": "Headgear",
+		"defname": "DD_Apparel_DragonCrown"
+	},
+	{
+		"abr": "dragonegg(unfert.)",
+		"price": 42,
+		"category": "Eggs (unfert.)",
+		"defname": "EggDragonUnfertilized"
+	},
+	{
+		"abr": "dragonhorn",
+		"price": 1450,
+		"category": "Items",
+		"defname": "DragonHorn"
+	},
+	{
+		"abr": "dragonleather",
+		"price": 29,
+		"category": "Leathers",
+		"defname": "Dragon_Leather"
+	},
+	{
+		"abr": "dragonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Red_Dragon"
+	},
+	{
+		"abr": "dragonnest",
+		"price": 44,
+		"category": "Furniture",
+		"defname": "DragonNest"
+	},
+	{
+		"abr": "dragonpillow",
+		"price": 206,
+		"category": "Furniture",
+		"defname": "DragonPillow"
+	},
+	{
+		"abr": "dragonstatueritual",
+		"price": 1508,
+		"category": "Art",
+		"defname": "DD_DragonStatueRitual_Grand"
+	},
+	{
+		"abr": "dragonstatueritual",
+		"price": 1042,
+		"category": "Art",
+		"defname": "DD_DragonStatueRitual_Large"
+	},
+	{
+		"abr": "dragonstatueritual",
+		"price": 833,
+		"category": "Art",
+		"defname": "DD_DragonStatueRitual_Small"
+	},
+	{
+		"abr": "dragonfirelauncher",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "DD_Gun_DragonfireLauncher"
+	},
+	{
+		"abr": "dragon'sblood",
+		"price": 97,
+		"category": "Drugs",
+		"defname": "DragonsBlood"
+	},
+	{
+		"abr": "earpatch",
+		"price": 62,
+		"category": "Simple parts",
+		"defname": "EarPatch"
+	},
+	{
+		"abr": "earlymedievalmedicine",
+		"price": 27,
+		"category": "Medicine",
+		"defname": "MedicineEarlyMedievalMM"
+	},
+	{
+		"abr": "eyepatch",
+		"price": 62,
+		"category": "Simple parts",
+		"defname": "EyePatch"
+	},
+	{
+		"abr": "filter",
+		"price": 0,
+		"category": "Manufactured",
+		"defname": "ES_Filter"
+	},
+	{
+		"abr": "filterdevice",
+		"price": 417,
+		"category": "Hygiene",
+		"defname": "ES_FilterDevice"
+	},
+	{
+		"abr": "focusingtome",
+		"price": 2667,
+		"category": "Melee weapons",
+		"defname": "DDMeleeWeapon_FocusingTome"
+	},
+	{
+		"abr": "garrisoncrossbow",
+		"price": 417,
+		"category": "Ranged weapons",
+		"defname": "MB_Garrison_Crossbow"
+	},
+	{
+		"abr": "golddragon",
+		"price": 13167,
+		"category": "Animals",
+		"defname": "Gold_Dragon"
+	},
+	{
+		"abr": "golddragonegg(fert.)",
+		"price": 6833,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggGoldDragonFertilized"
+	},
+	{
+		"abr": "greendragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "Green_Dragon"
+	},
+	{
+		"abr": "greendragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggGreenDragonFertilized"
+	},
+	{
+		"abr": "handmortar",
+		"price": 333,
+		"category": "Ranged weapons",
+		"defname": "KIT_Gun_HandMortar"
+	},
+	{
+		"abr": "harddragonscale",
+		"price": 6,
+		"category": "Raw resources",
+		"defname": "HardScale"
+	},
+	{
+		"abr": "hoodedarmet",
+		"price": 483,
+		"category": "Headgear",
+		"defname": "Joe_ArmetHooded"
+	},
+	{
+		"abr": "hoodedchainclosedflat-top",
+		"price": 392,
+		"category": "Headgear",
+		"defname": "Joe_ChainClosedFlatTopHooded"
+	},
+	{
+		"abr": "hoodedchainnasalhelm",
+		"price": 358,
+		"category": "Headgear",
+		"defname": "Joe_ChainNasalHooded"
+	},
+	{
+		"abr": "hoodedclosedchainflat-top",
+		"price": 358,
+		"category": "Headgear",
+		"defname": "Joe_ClosedChainFlatTopHooded"
+	},
+	{
+		"abr": "hoodedgreathelm",
+		"price": 458,
+		"category": "Headgear",
+		"defname": "Joe_GreatHelmHooded"
+	},
+	{
+		"abr": "hoodedgryphonsallet",
+		"price": 458,
+		"category": "Headgear",
+		"defname": "Joe_SalletGryphonHooded"
+	},
+	{
+		"abr": "hoodedheavybarbrute",
+		"price": 358,
+		"category": "Headgear",
+		"defname": "Joe_HeavyBarbruteHooded"
+	},
+	{
+		"abr": "hoodedklappviserbascinet",
+		"price": 458,
+		"category": "Headgear",
+		"defname": "Joe_KlappvisorBascinetHooded"
+	},
+	{
+		"abr": "hoodedopenbascinet",
+		"price": 342,
+		"category": "Headgear",
+		"defname": "Joe_OpenBascinetHooded"
+	},
+	{
+		"abr": "hoodedopensallet",
+		"price": 400,
+		"category": "Headgear",
+		"defname": "Joe_SalletOpenHooded"
+	},
+	{
+		"abr": "hoodedvisoredsallet",
+		"price": 458,
+		"category": "Headgear",
+		"defname": "Joe_SalletVisoredHooded"
+	},
+	{
+		"abr": "hornedlance",
+		"price": 3833,
+		"category": "Melee weapons",
+		"defname": "DD_MeleeWeapon_HornedLance"
+	},
+	{
+		"abr": "hugecolddemigryphhide",
+		"price": 1108,
+		"category": "Hides",
+		"defname": "DankPyon_Hide_ColdLeather_Demigryph"
+	},
+	{
+		"abr": "hugedemigryphhide",
+		"price": 1108,
+		"category": "Hides",
+		"defname": "DankPyon_Hide_Leather_Demigryph"
+	},
+	{
+		"abr": "hugedragonhide",
+		"price": 3542,
+		"category": "Hides",
+		"defname": "DankPyon_Hide_HugeDragon"
+	},
+	{
+		"abr": "hugeraredragonhide",
+		"price": 12267,
+		"category": "Hides",
+		"defname": "DankPyon_Hide_HugeRareDragon"
+	},
+	{
+		"abr": "hugetruedragonhide",
+		"price": 39417,
+		"category": "Hides",
+		"defname": "DankPyon_Hide_HugeTrueDragon"
+	},
+	{
+		"abr": "hugewarmdemigryphhide",
+		"price": 1108,
+		"category": "Hides",
+		"defname": "DankPyon_Hide_WarmLeather_Demigryph"
+	},
+	{
+		"abr": "huntingcrossbow",
+		"price": 150,
+		"category": "Ranged weapons",
+		"defname": "MB_Hunting_Crossbow"
+	},
+	{
+		"abr": "ironarm",
+		"price": 191,
+		"category": "Simple parts",
+		"defname": "IronArm"
+	},
+	{
+		"abr": "jadedragon",
+		"price": 13167,
+		"category": "Animals",
+		"defname": "Jade_Dragon"
+	},
+	{
+		"abr": "jadedragonegg(fert.)",
+		"price": 6833,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggJadeDragonFertilized"
+	},
+	{
+		"abr": "jewelberries",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "JewelBerries"
+	},
+	{
+		"abr": "jeweledrhizome",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "Jeweledrhizomeraw"
+	},
+	{
+		"abr": "largedragonhide",
+		"price": 1417,
+		"category": "Hides",
+		"defname": "DankPyon_Hide_LargeDragon"
+	},
+	{
+		"abr": "largeraredragonhide",
+		"price": 6133,
+		"category": "Hides",
+		"defname": "DankPyon_Hide_LargeRareDragon"
+	},
+	{
+		"abr": "largetruedragonhide",
+		"price": 19708,
+		"category": "Hides",
+		"defname": "DankPyon_Hide_LargeTrueDragon"
+	},
+	{
+		"abr": "latemedievalmedicine",
+		"price": 42,
+		"category": "Medicine",
+		"defname": "MedicineLateMedievalMM"
+	},
+	{
+		"abr": "makeshiftrazorfangknife",
+		"price": 1000,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_RazorfangKnife"
+	},
+	{
+		"abr": "matinghorn",
+		"price": 3333,
+		"category": "Artifacts",
+		"defname": "MatingHorn"
+	},
+	{
+		"abr": "mechanicalarm",
+		"price": 608,
+		"category": "Simple parts",
+		"defname": "MechanicalMedArm"
+	},
+	{
+		"abr": "mechanicalear",
+		"price": 99,
+		"category": "Simple parts",
+		"defname": "MechanicalMedEar"
+	},
+	{
+		"abr": "mechanicaleye",
+		"price": 99,
+		"category": "Simple parts",
+		"defname": "MechanicalMedEye"
+	},
+	{
+		"abr": "mechanicalfinger",
+		"price": 144,
+		"category": "Simple parts",
+		"defname": "MechanicalMedFinger"
+	},
+	{
+		"abr": "mechanicalfoot",
+		"price": 375,
+		"category": "Simple parts",
+		"defname": "MechanicalMedFoot"
+	},
+	{
+		"abr": "mechanicalhand",
+		"price": 375,
+		"category": "Simple parts",
+		"defname": "MechanicalMedHand"
+	},
+	{
+		"abr": "mechanicalleg",
+		"price": 608,
+		"category": "Simple parts",
+		"defname": "MechanicalMedLeg"
+	},
+	{
+		"abr": "mechanicalnose",
+		"price": 99,
+		"category": "Simple parts",
+		"defname": "MechanicalMedNose"
+	},
+	{
+		"abr": "mechanicaltoe",
+		"price": 144,
+		"category": "Simple parts",
+		"defname": "MechanicalMedToe"
+	},
+	{
+		"abr": "mediumdragonhide",
+		"price": 7083,
+		"category": "Hides",
+		"defname": "DankPyon_Hide_MediumDragon"
+	},
+	{
+		"abr": "mediumraredragonhide",
+		"price": 2492,
+		"category": "Hides",
+		"defname": "DankPyon_Hide_MediumRareDragon"
+	},
+	{
+		"abr": "mediumtruedragonhide",
+		"price": 8600,
+		"category": "Hides",
+		"defname": "DankPyon_Hide_MediumTrueDragon"
+	},
+	{
+		"abr": "mercenarybow",
+		"price": 154,
+		"category": "Ranged weapons",
+		"defname": "MB_Bow_Mercenary"
+	},
+	{
+		"abr": "moonstone",
+		"price": 47,
+		"category": "Drugs",
+		"defname": "MoonStone"
+	},
+	{
+		"abr": "paresianmedicine",
+		"price": 83,
+		"category": "Medicine",
+		"defname": "MedicineParesianMM"
+	},
+	{
+		"abr": "peasantbow",
+		"price": 64,
+		"category": "Ranged weapons",
+		"defname": "MB_Bow_Peasant"
+	},
+	{
+		"abr": "prosthetichook",
+		"price": 101,
+		"category": "Simple parts",
+		"defname": "ProstheticHook"
+	},
+	{
+		"abr": "psychicaginglance",
+		"price": 3083,
+		"category": "Artifacts",
+		"defname": "PubertyLance"
+	},
+	{
+		"abr": "purpledragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "Purple_Dragon"
+	},
+	{
+		"abr": "purpledragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggPurpleDragonFertilized"
+	},
+	{
+		"abr": "raredragonleather",
+		"price": 38,
+		"category": "Leathers",
+		"defname": "Rare_Dragon_Leather"
+	},
+	{
+		"abr": "reddragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "Red_Dragon"
+	},
+	{
+		"abr": "reddragonegg(fert.)",
+		"price": 5333,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggRedDragonFertilized"
+	},
+	{
+		"abr": "scalehelmet",
+		"price": 189,
+		"category": "Headgear",
+		"defname": "DD_Apparel_ScaleHelm"
+	},
+	{
+		"abr": "scalemail",
+		"price": 675,
+		"category": "Armor",
+		"defname": "DD_Apparel_ScaleMail"
+	},
+	{
+		"abr": "silverdragon",
+		"price": 13167,
+		"category": "Animals",
+		"defname": "Silver_Dragon"
+	},
+	{
+		"abr": "silverdragonegg(fert.)",
+		"price": 6833,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggSilverDragonFertilized"
+	},
+	{
+		"abr": "simplebathtub",
+		"price": 120,
+		"category": "Hygiene",
+		"defname": "ES_SimpleBathtub"
+	},
+	{
+		"abr": "simpletoilet",
+		"price": 72,
+		"category": "Hygiene",
+		"defname": "ES_SimpleToilet"
+	},
+	{
+		"abr": "summonedblackscarab",
+		"price": 250,
+		"category": "Animals",
+		"defname": "AA_BlackScarab_Temporary"
+	},
+	{
+		"abr": "summonedblackspelopede",
+		"price": 417,
+		"category": "Animals",
+		"defname": "AA_BlackSpelopede_Temporary"
+	},
+	{
+		"abr": "summonedblackspider",
+		"price": 917,
+		"category": "Animals",
+		"defname": "AA_BlackSpider_Temporary"
+	},
+	{
+		"abr": "summonedeyeling",
+		"price": 167,
+		"category": "Animals",
+		"defname": "AA_Summoned_Eyeling"
+	},
+	{
+		"abr": "summonedmammothworm",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "AA_MammothWorm_Temporary"
+	},
+	{
+		"abr": "swan",
+		"price": 217,
+		"category": "Animals",
+		"defname": "VAERoy_Swan"
+	},
+	{
+		"abr": "swanegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "VAERoy_EggSwanFertilized"
+	},
+	{
+		"abr": "swanegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "VAERoy_EggSwanUnfertilized"
+	},
+	{
+		"abr": "tasmaniandevil",
+		"price": 750,
+		"category": "Animals",
+		"defname": "AEXP_TasmanianDevil"
+	},
+	{
+		"abr": "tasmaniandevilmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_TasmanianDevil"
+	},
+	{
+		"abr": "thegameofstrife",
+		"price": 583,
+		"category": "Recreation",
+		"defname": "StrifeGame"
+	},
+	{
+		"abr": "thrumbobattleaxe",
+		"price": 1833,
+		"category": "Melee weapons",
+		"defname": "DDMeleeWeapon_ThrumboBattleAxe"
+	},
+	{
+		"abr": "thylacine",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "AEXP_Thylacine"
+	},
+	{
+		"abr": "thylacinemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_Thylacine"
+	},
+	{
+		"abr": "tigerdemigryph",
+		"price": 2167,
+		"category": "Animals",
+		"defname": "pphhyy_TigerDemigryph"
+	},
+	{
+		"abr": "tigerdemigryphegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "EggTigerDemigryphFertilized"
+	},
+	{
+		"abr": "townboots",
+		"price": 106,
+		"category": "Footwear",
+		"defname": "AMT_Footwear_Townboots"
+	}
 	],
-	"total": 4227
+	"total": 4385
 }
